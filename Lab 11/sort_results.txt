@@ -1,0 +1,49 @@
+Test machine details
+CPU/Processor(s): 2.3 GHz Dual-Core Intel Core i5
+Installed RAM amount: 8 GB
+Operating System: macOS Big Sur
+
+Bubble Sort
+    Best Case: 0 minute(s) and 2.6716e-05 second(s).
+    Average Case: 0 minute(s) and 16.2236 second(s).
+    Worst Case: 0 minute(s) and 31.0533 second(s).
+
+Selection Sort
+    Best Case: 0 minute(s) and 0.123956 second(s).
+    Average Case: 0 minute(s) and 0.128122 second(s).
+    Worst Case: 0 minute(s) and 0.136079 second(s).
+
+Insertion Sort
+    Best Case: 0 minute(s) and 0.000654548 second(s).
+    Average Case: 0 minute(s) and 1.52114 second(s).
+    Worst Case: 0 minute(s) and 3.08123 second(s).
+
+Shell Sort (5-3-1)
+    Best Case: 0 minute(s) and 0.000158253 second(s).
+    Average Case: 0 minute(s) and 0.0169802 second(s).
+    Worst Case: 0 minute(s) and 0.0346394 second(s).
+
+Binary Insertion Sort
+    Best Case: 0 minute(s) and 0.113629 second(s).
+    Average Case: 0 minute(s) and 0.0316667 second(s).
+    Worst Case: 0 minute(s) and 0.0251208 second(s).
+
+Heap Sort
+    Best Case: 0 minute(s) and 0.00499584 second(s).
+    Average Case: 0 minute(s) and 0.00412158 second(s).
+    Worst Case: 0 minute(s) and 0.00402251 second(s).
+
+Merge Sort
+    Best Case: 0 minute(s) and 0.00669132 second(s).
+    Average Case: 0 minute(s) and 0.00524614 second(s).
+    Worst Case: 0 minute(s) and 0.00475038 second(s).
+
+Quick Sort (1)
+    Best Case: 0 minute(s) and 0.173132 second(s).
+    Average Case: 0 minute(s) and 0.107043 second(s).
+    Worst Case: 0 minute(s) and 0.182688 second(s).
+
+Radix Sort
+    Best Case: 0 minute(s) and 0.0204366 second(s).
+    Average Case: 0 minute(s) and 0.0217419 second(s).
+    Worst Case: 0 minute(s) and 0.0216811 second(s).
